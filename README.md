@@ -21,8 +21,8 @@ ACPE is a pre-installation environment which contains softwares that can repair 
 1.Download ACPE from [GitHub](https://github.com/WSx32/ACPE). \
 2.Create a new folder, and extract both the installation wizard and the "efiboot" folder in it.  \
 3.Run "Install to USB.exe" and follow the instructions. Notice: this installation will format your USB. Backup your files if needed.  \
-4.Finish installing and pull put the USB disk.  \
+4.Finish installing and pull out the USB disk.  \
 5.Restart the computer and plug in the USB disk.  \
-6.Enter the bios startup menu or the bios setup. Serch for your computer's hotkey for opening the bios setup.  \
+6.Enter the bios startup menu or the bios setup. Search for your computer's hotkey for opening the bios setup.  \
 7.Override the boot order to start your computer from the USB disk.  \
 8.Wait until the PE boots up. 
